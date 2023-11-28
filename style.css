@@ -111,8 +111,8 @@ input[type="checkbox"]:checked ~ .menu-bar {
 
 @media (min-width: 821px) {
   .menu-bar {
-    display: flex !important;
-    flex-direction: row !important;
+    display: flex ;
+    flex-direction: row ;
   }
 }
 
